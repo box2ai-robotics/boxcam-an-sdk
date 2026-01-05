@@ -4,6 +4,8 @@
 
 # BoxCam_AN SDK
 
+![Hardware](assets/hardware.png)
+
 Active Near-Field Perception Camera: Active infrared + RGB night vision binocular camera
 
 Suitable for robot wrist camera application scenarios.
@@ -43,6 +45,8 @@ This will automatically detect cameras and display a window containing three ima
 - Press '-': Decrease maximum near-field perception range
 - Press 'f': Toggle bilateral filter
 - Press 'a': Toggle adaptive normalization
+
+![Output](assets/ouput.png)
 
 ### Method 2: Read Three Images Example (Display Window)
 

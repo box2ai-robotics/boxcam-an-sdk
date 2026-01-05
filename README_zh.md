@@ -4,6 +4,8 @@
 
 # BoxCam_AN SDK
 
+![硬件](assets/hardware.png)
+
 主动近场感知机：主动红外+RGB 可夜视 双目  
 Active Near-Field Perception Camera
 
@@ -44,6 +46,8 @@ python -m boxcam_an.boxcam
 - 按 '-' 键：减少最大近场感知范围
 - 按 'f' 键：切换双边滤波
 - 按 'a' 键：切换自适应归一化
+
+![输出效果](assets/ouput.png)
 
 ### 方式二：读取三个图像的例程（显示窗口）
 
